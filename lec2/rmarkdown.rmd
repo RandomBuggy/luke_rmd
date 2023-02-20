@@ -1,0 +1,35 @@
+---
+title: My First R Markdown Document
+author: Luke Smith
+---
+
+\tableofcontents
+
+hdufuf hfudufoyf
+
+yrdyfg9gdiyfyif8
+hfxtdciyiydxursrsrdtdi
+
+* tshsjtityf
+* fuiyydutx
+* iudr5ueyrit
+
+# section
+
+## subsection
+
+## subsubsection
+
+*italics* **bold**
+
+output: pdf_document
+
+```{r}
+(56^19)*5
+```
+
+```{python}
+z = [1,2,3]
+for y in z: print(y+5)
+```
+
